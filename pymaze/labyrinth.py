@@ -9,7 +9,7 @@ import ctypes
 from OpenGL.GL import * 
 
 import random
-random.seed(0xdeadbeef)
+#random.seed(0xdeadbeef)
 
 from constants import *
 from textures import *
